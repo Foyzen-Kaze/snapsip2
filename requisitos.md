@@ -19,8 +19,7 @@
 
 | ID | Requisito |
 |----|-----------|
-| RY-01 | El proyecto debe ser empaquetado y ejecutado en un entorno de contenedores estándar para su despliegue y evaluación local, eliminando la dependencia de plataformas de alojamiento o bases de datos específicas en la nube (PaaS/BaaS). |
-| RY-02 | El alcance del proyecto finaliza con la entrega del software funcional. No se contempla soporte técnico, mantenimiento evolutivo ni actualizaciones posteriores a la entrega del sistema y de las credenciales de administración al cliente. |
+| RY-01 | El alcance del proyecto finaliza con la entrega del software funcional. No se contempla soporte técnico, mantenimiento evolutivo ni actualizaciones posteriores a la entrega del sistema y de las credenciales de administración al cliente. |
 
 ## Requisito derivado
 
