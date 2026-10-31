@@ -31,6 +31,6 @@ Nota: distingan tareas de usuario, de servicio y manuales con el marcador corres
 |-------------------------|--------------------------|------------|
 | (Acceso físico sin registro) | Iniciar sesión en SnapSip desde celular | Se agrega autenticación para registrar quién manipula la información de las torres. |
 | (Gestión pasiva o nula) | Crear/Editar Proyecto y Torres en SnapSip | El operario asume el control directo de la estructura de proyectos y torres en la base de datos. |
-| Buscar pieza requerida con montacargas | Filtrar torre y abrir checklist | La búsqueda física se reemplaza por una búsqueda digital filtrando por código específico (ej. "H1"). |
+| Buscar pieza requerida con montacargas | Filtrar torre y abrir checklist | La búsqueda física se reemplaza por una búsqueda digital filtrando por código específico (ej. "I1"). |
 | Buscar frenéticamente las piezas faltantes en la bodega | Verificar físicamente las piezas y marcar checklist en la app | Se implementa una validación uno a uno en terreno mediante un checklist interactivo antes del despacho. |
 | Revisar visualmente las piezas mientras se carga el camión | Descargar Guía de Despacho PDF desde SnapSip | El encargado ya no revisa a ciegas; descarga un PDF que el sistema solo habilita si el checklist está al 100%. |
