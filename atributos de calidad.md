@@ -5,11 +5,11 @@
 1. Usabilidad
 2. Fiabilidad
 3. Adecuación funcional
-4. Seguridad
-5. Eficiencia de desempeño
+4. Mantenibilidad
+5. Eficiencia de Desempeño
 6. Compatibilidad
-7. Portabilidad
-8. Mantenibilidad
+7. Seguridad
+8. Portabilidad
 9. Flexibilidad
 
 ## Métricas de los 3 atributos más importantes
