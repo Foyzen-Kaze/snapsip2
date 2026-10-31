@@ -11,9 +11,8 @@
 | RP-05 | El sistema debe registrar automáticamente en la base de datos la trazabilidad de las acciones (identificador de usuario, fecha y hora exacta) al completar un checklist. | Funcional | Verificación y armado de torres en terreno |
 | RP-06 | El sistema debe permitir actualizar el estado de una Torre o de un Proyecto a "Terminado" una vez que se valide la completitud de su checklist respectivo. | Funcional | Verificación y armado de torres en terreno |
 | RP-07 | El sistema debe permitir la generación y exportación de un documento en formato PDF ("Guía de Despacho") con los datos de los paneles procesados para respaldo de bodega. | Funcional | Despacho y generación de guía PDF |
-| RP-08 | El sistema debe gestionar el control de acceso mediante al menos dos roles: Administrador (con privilegios de gestión de datos) y Operario (con privilegios de lectura y actualización de checklists). | Funcional | Inicio de sesión y autenticación de usuario |
-| RP-09 | La solución debe implementarse como una aplicación web con diseño responsivo, accesible desde dispositivos móviles en faena mediante conexión a internet. | No funcional | Verificación y armado de torres en terreno |
-| RP-10 | La arquitectura del sistema (servidor web y base de datos) debe garantizar alta disponibilidad para asegurar la continuidad operativa durante el horario de trabajo. | No funcional | (General de plataforma) |
+| RP-08 | La solución debe implementarse como una aplicación web con diseño responsivo, accesible desde dispositivos móviles en faena mediante conexión a internet. | No funcional | Verificación y armado de torres en terreno |
+| RP-9 | La arquitectura del sistema (servidor web y base de datos) debe garantizar alta disponibilidad para asegurar la continuidad operativa durante el horario de trabajo. | No funcional | (General de plataforma) |
 
 ## Requisitos de proyecto
 
